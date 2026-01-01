@@ -20,4 +20,7 @@ header {
 footer {
     background-color: #333;
     color: white;
-    text-align: center;
+
+    text-align: center;<a href="https://mdrajprincerajv-netizen.github.io/free-fire-shop/" target="_blank">
+    Visit Free Fire Shop
+</a>
