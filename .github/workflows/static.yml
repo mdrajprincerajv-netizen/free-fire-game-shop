@@ -40,4 +40,4 @@ jobs:
           path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4Your site is published at https://mdrajprincerajv-netizen.github.io/free-fire-shop/
+        uses: actions/deploy-pages@v4Your site is publishe
